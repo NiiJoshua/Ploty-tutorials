@@ -15,3 +15,5 @@ Kaggle link to the tutorial is here: https://www.kaggle.com/code/kanncaa1/plotly
 >* plotly.tools(deprecate, plotly.subplots)
 
 Plotly.express module can create the entire Figure at once. Inherently, it uses the graph_objects
+
+online tutorial is from this video: https://www.google.com/search?q=learn+plotly+python&source=lnms&tbm=vid&sa=X&ved=2ahUKEwj0if6NisL8AhXhbfEDHfstBZEQ_AUoAXoECAEQAw&biw=2100&bih=1213&dpr=1.6#fpstate=ive&vld=cid:f8b17a31,vid:GGL6U0k8WYA
